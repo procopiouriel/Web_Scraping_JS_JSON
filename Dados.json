@@ -1,0 +1,45 @@
+{
+  "CondicaoDoCadastro": "  Analisado, aguardando regularização ambiental (Lei nº 12.651/2012)   ",
+  "CondicaoDoPra": "   -  ",
+  "RegistroDoCar": "RO-1100056-7B46D3D926D24096A0FC44BD2149284C",
+  "AreaDoImovel": "742,81 ha",
+  "ModulosFiscais": "12,38",
+  "MunicipiosUF": "Cerejeiras / RO",
+  "Centroide": "Lat: 13°04'03,86\" S, Long: 61°20'18,38\" O",
+  "DataDeRegistro": "18/11/2020",
+  "DataDaAnalise": "12/12/2023",
+  "DataDaUltimaRetificacao": "  01/12/2023",
+  "Remascentes": "119,62 ha",
+  "Consolidado": "620,05 ha",
+  "ServidaoAdminstrativa": "-",
+  "SituacaoReserva": "  Aprovada   ",
+  "Averbada": "-",
+  "Aprovada": "-",
+  "Proposta": "119,62 ha",
+  "Declarada": "119,62 ha",
+  "PreservacaoPermanente": "46,51 ha",
+  "UsoRestrito": "-",
+  "Restricoes": [
+    {
+      "Origem": "Áreas Embargadas Sobreposição ",
+      "Descricao": "Infração: Destruir (danificar, desmatar) florestas situadas em áreas de reserva legal (floresta) (Amazônia Legal) ",
+      "Processamento": "01/12/2023 ",
+      "AreaDeConflito": "60,89 ha ",
+      "Percentual": "8,1978   "
+    },
+    {
+      "Origem": "Áreas Embargadas Sobreposição ",
+      "Descricao": "Infração: Usar fogo em qualquer forma de vegetação (exceto mata e floresta) sem autorização e/ou não observar as precauções recomendadas na queima controlada (áreas agropastoris) ",
+      "Processamento": "01/12/2023 ",
+      "AreaDeConflito": "3,12 ha ",
+      "Percentual": "0,4208   "
+    },
+    {
+      "Origem": "Áreas Embargadas Sobreposição ",
+      "Descricao": "Infração: Destruir (danificar, desmatar) florestas situadas em áreas de reserva legal (floresta) (Amazônia Legal) ",
+      "Processamento": "01/12/2023 ",
+      "AreaDeConflito": "10,59 ha ",
+      "Percentual": "1,4257    "
+    }
+  ]
+}
